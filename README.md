@@ -1,59 +1,38 @@
-# 🤖 Machine Learning Projeleri
+# Machine Learning Projects
 
-Makine öğrenmesi, derin öğrenme ve yapay zeka uygulamalarının yer aldığı kapsamlı bir proje koleksiyonu.
+Welcome to the Machine Learning Projects repository! This repository houses a collection of comprehensive projects focused on various aspects of machine learning.
 
-## 📚 Proje Hakkında
+## Table of Contents
 
-Bu repository, makine öğrenmesi algoritmalarını, veri analizi tekniklerini ve gerçek dünya uygulamalarını öğrenmek ve geliştirmek için tasarlanmıştır. Başlangıç seviyesinden ileri düzeye kadar çeşitli projeler ve örnekler içerir.
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## 🛠️ Teknoloji Stack
+## Introduction
 
-| Teknoloji | Açıklama |
-|-----------|----------|
-| **Python** | Ana programlama dili |
-| **NumPy** | Sayısal hesaplamalar |
-| **Pandas** | Veri manipülasyonu ve analizi |
-| **Scikit-Learn** | Makine öğrenmesi algoritmaları |
-| **TensorFlow/Keras** | Derin öğrenme |
-| **Matplotlib/Seaborn** | Veri görselleştirmesi |
-| **Jupyter Notebook** | İnteraktif geliştirme |
+This repository is dedicated to showcasing different machine learning algorithms and methodologies. Each project comes with a detailed explanation of the concepts used, the dataset, and the results obtained.
 
-## 📋 Proje İçeriği
+## Projects
 
-### Makine Öğrenmesi Temelleri
-- Doğrusal Regresyon (Linear Regression)
-- Lojistik Regresyon (Logistic Regression)
-- K-Nearest Neighbors (KNN)
-- Karar Ağaçları (Decision Trees)
-- Rastgele Orman (Random Forest)
-- Destek Vektör Makineleri (SVM)
+1. **Project 1: Title**  
+   Description of project 1...
 
-### Veri Ön İşleme
-- Veri temizleme ve normalleştirme
-- Eksik veri işleme
-- Özellik seçimi ve mühendisliği
-- Veri standardizasyonu
+2. **Project 2: Title**  
+   Description of project 2...
 
-### Derin Öğrenme
-- Yapay Sinir Ağları (ANN)
-- Konvolüsyonel Sinir Ağları (CNN)
-- Tekrarlayan Sinir Ağları (RNN/LSTM)
-- Transfer Learning
+3. **Project 3: Title**  
+   Description of project 3...
 
-### Veri Görselleştirmesi
-- Matplotlib kütüphanesi
-- Seaborn istatistiksel görselleştirmesi
-- Plotly interaktif grafikler
+_(Add more projects as needed)_
 
-## 📦 Kurulum
+## Installation
 
-### Gereksinimler
-- Python 3.8 veya üstü
-- pip veya conda paket yöneticisi
+To set up the projects locally, clone the repository and install the required libraries:
 
-### Adım Adım Kurulum
-
-1. **Projeyi klonlayın**
-   ```bash
-   git clone https://github.com/samettas52/Machine_Learning.git
-   cd Machine_Learning
+```bash
+$ git clone https://github.com/samettas52/Machine_Learning.git
+$ cd Machine_Learning
+$ pip install -r requirements.txt
